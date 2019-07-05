@@ -1,0 +1,19 @@
+/*
+ * thrust.css
+ */
+
+body {
+    background-color: black;
+    font-family: 'Gugi', cursive;
+}
+canvas {
+    border: 1px solid black;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    border-radius: 3px;
+}
